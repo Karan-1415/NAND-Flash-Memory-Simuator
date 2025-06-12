@@ -85,7 +85,7 @@ L2P[42] = Block 15, Page 3
 
 **Suraj Karan**  
 Aspiring Embedded Systems Engineer  
-[LinkedIn](https://www.linkedin.com/in/surajkaran) | [GitHub](https://github.com/surajkaran)
+[LinkedIn](https://www.linkedin.com/in/suraj-karan-a52846227/)
 
 ---
 
